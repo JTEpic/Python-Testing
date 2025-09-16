@@ -10,4 +10,4 @@ This repo was made to save some code
 
 ## Includes
 
-credit card number generator or something
+credit card number generator or something (luhn algorithm)
